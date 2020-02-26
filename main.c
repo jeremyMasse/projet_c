@@ -62,7 +62,7 @@ struct Item_s *del_item(struct Item_s *inventaire, char *nom)
         printf("%s", inventaire->previous_item->next_item->nom_item);
         printf("%s", inventaire->next_item->previous_item->nom_item);
         free(tmp);
-        printf("%s",)
+        *inventaire = *inventaire->next_item;
     }
     else if (inventaire->previous_item == NULL ){
         inventaire->next_item->previous_item = NULL;
