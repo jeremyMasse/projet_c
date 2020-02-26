@@ -4,8 +4,22 @@
 	<stdlib.h>
 	<string.h>
 
-1582708285 source:c:\users\jerem\documents\projet_c\main.c
+1582716707 source:c:\users\jerem\documents\projet_c\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+	"inventaire.h"
+
+1582716698 source:c:\users\jerem\documents\projet_c\inventaire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1582711525 c:\users\jerem\documents\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inventaire.h"
+
+1582714398 c:\users\jerem\documents\projet_c\inventaire.h
 
