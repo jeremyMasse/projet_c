@@ -106,9 +106,12 @@ int main(void)
     //del_item(inventaire, "couteau");
     del_item(inventaire, "hache");
     //del_item(inventaire, "potion");
+    printf("test1");
     print_inv(inventaire);
-    //printf("test1");
+    printf("test2");
+
+    add_item(inventaire, "potion");
     return 0;
 }
+//blablabla
 
-//https://github.com/jeremyMasse/projet_c.git
